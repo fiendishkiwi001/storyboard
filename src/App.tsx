@@ -83,7 +83,18 @@ function App() {
           </img>
         </Content>
         <Content title='Storyboard'>
-          
+          <img className='Image' src="https://i.imgur.com/DFcW73B.jpg">
+          </img>
+          <img className='Image' src="https://i.imgur.com/0snVElV.jpg">
+          </img>
+          <img className='Image' src="https://i.imgur.com/WWy9hOz.png">
+          </img>
+          <img className='Image' src="https://i.imgur.com/TYQ8NZJ.jpg">
+          </img>
+          <img className='Image' src="https://i.imgur.com/Lzzy3Wb.jpg">
+          </img>
+          <img className='Image' src="https://i.imgur.com/NWN9TVJ.jpg">
+          </img>
         </Content>
       </div>
     </div>

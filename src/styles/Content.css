@@ -1,0 +1,17 @@
+.container {
+  display: flexbox;
+  justify-content: center;
+  margin-bottom: 2vh;
+  border-radius: 10px;
+  width: 90%;
+  height: 200px;
+  background-color:rgb(238, 232, 170, .6);
+}
+
+.Content {
+
+}
+
+.Text {
+
+}

@@ -1,15 +1,25 @@
 .container {
-  display: flexbox;
-  justify-content: center;
-  margin-bottom: 2vh;
-  border-radius: 10px;
-  width: 90%;
-  height: 200px;
-  background-color:rgb(238, 232, 170, .6);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-bottom: 5vh;
+  border-radius: 20px;
+  width: 80%;
+  height: 800px;
+  background-color: rgb(245, 245, 245, .5255);
+  overflow: hidden;
 }
 
 .Content {
 
+}
+
+.title {
+  width: 100%;
+  margin-top: 10px;
+  font-size: xx-large;
+  font-weight: bold;
 }
 
 .Text {

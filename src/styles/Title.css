@@ -2,6 +2,7 @@
   font-size: 8vh;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: bold;
+  color: whitesmoke;
 }
 
 .Subtitle {
@@ -9,4 +10,5 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: lighter;
   margin-bottom: 4vh;
+  color: whitesmoke;
 }

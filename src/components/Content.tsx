@@ -1,13 +1,20 @@
 import '../styles/Content.css';
 
 interface Props {
+  title: string;
   children: any;
 }
 
-function Content({ children }: Props) {
+function Content({ children, title }: Props) {
   return <div className='container'>
-    {children}
+    <div className='title'>
+      {title}
+    </div>
+    <div>
+      {children}
+    </div>
   </div>
+  
 }
 
 export default Content;

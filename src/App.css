@@ -23,6 +23,37 @@
   justify-content: center;
 }
 
+.InterviewSummary {
+  margin-top: 0;
+  font-size: 2.25vh;
+  margin-bottom: 5vh;
+}
+
+
+
+.InterviewQuestions {
+  font-size: 2.25vh;
+  text-align: left;
+  margin-left: 1vh;
+}
+
+.InterviewAnswer {
+  margin-left: 4vh;
+  margin-top: 1vh;
+  font-size: 2vh;
+  font-weight: 400;
+  color: whitesmoke;
+}
+
+.InterviewContent {
+  margin-bottom: 1vh;
+  font-weight: bold;
+}
+
+.InterviewQuestionsSub {
+  margin-left: 2vh;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

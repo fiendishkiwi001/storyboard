@@ -9,6 +9,12 @@
   font-size: 6vh;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-weight: lighter;
-  margin-bottom: 4vh;
   color: whitesmoke;
+}
+
+.message {
+  font-size: 2vh;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: whitesmoke;
+  margin-bottom: 2vh;
 }

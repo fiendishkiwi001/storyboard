@@ -9,6 +9,7 @@
     linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
   background-color: #131313;
   background-size: 20px 20px;
+  background-attachment: fixed;
 }
 
 .Image {
@@ -26,7 +27,7 @@
 .InterviewSummary {
   margin-top: 0;
   font-size: 2.25vh;
-  margin-bottom: 5vh;
+  margin-bottom: 3vh;
 }
 
 
@@ -40,6 +41,7 @@
 .InterviewAnswer {
   margin-left: 4vh;
   margin-top: 1vh;
+  margin-right: 4vh;
   font-size: 2vh;
   font-weight: 400;
   color: whitesmoke;
@@ -47,6 +49,7 @@
 
 .InterviewContent {
   margin-bottom: 1vh;
+  margin-right: 1vh;
   font-weight: bold;
 }
 

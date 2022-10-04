@@ -11,6 +11,7 @@ function App() {
       <Title/>
       <div className="Container">
         <Content title="Selected interface: TV Remote">
+          <div>(concept sketch, Roku, TV) </div>
           <img className='Image' src="https://i.imgur.com/Z2gumix.png">
           </img>
           <img className='Image' src="https://m.media-amazon.com/images/I/31p9taWggOL._AC_.jpg">
@@ -20,14 +21,25 @@ function App() {
         </Content>
         <Content title='Interview Questions'>
           <div className='InterviewSummary'>
-            • All interviewed users quickly related to the selected interface, pointing towards the 
+            <div>
+              • All interviewed users quickly related to the selected interface, supported by the fact that
+              they all had used a TV remote before.
+            </div>
+            <div>
+              • However, interviewees primarily had complaints about previous user experiences, with virtually no
+              positive design takeaways.
+            </div>
           </div>
+
           <div className='InterviewQuestions'>
 
             <div className='InterviewContent'>
-              Are there any buttons whose functions are unfamiliar to you? What would you guess they do?
+              Are any of the buttons' functions unfamiliar to you? What would you guess they do?
               <div className='InterviewAnswer'>
-                This is an answer
+                All three presented designs had particular sets of fallacies.
+                The sketch was hard to imagine as a physical remote for some, maybe due to the small profile and unconventional layout.
+                Alternatively, the standard TV remotes both had buttons whose purposes were unclear; Roku's asterisk TV options, as well
+                as the other remote's page and AD buttons.
               </div>
             </div>
 
@@ -42,7 +54,7 @@ function App() {
               <div className='InterviewAnswer'>
                 A shared disapproval for typing on a keyboard with a TV remote was observed, although some cited 
                 predictive text suggestions as a solution. Besides typing, users also considered changing the volume, a back button,
-                and play/pause as frequented operations.
+                and play/pause as frequented operations. One cited buttons not registering when pressed. 
               </div>
             </div>
 
@@ -57,17 +69,18 @@ function App() {
             <div className='InterviewContent'>
               When using a remote, how often does the output not match what buttons you intended to press?
               <div className='InterviewAnswer'>
-                This is an answer
+                While this event was not uncommon for users, it didn't seem to cause a significant problem either, besides having
+                to repeat button inputs.
               </div>
             </div>
 
           </div>
         </Content>
-        <Content title="Personas">
-          Content 3
-        </Content>
-        <Content title='Empathy Maps'>
-          
+        <Content title='Personas and Empathy Maps'>
+          <img className='Image' src="https://i.imgur.com/SlUAsxo.png">
+          </img>
+          <img className='Image' src="https://i.imgur.com/PyF8TK9.png">
+          </img>
         </Content>
         <Content title='Storyboard'>
           
